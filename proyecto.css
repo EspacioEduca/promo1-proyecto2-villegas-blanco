@@ -1,0 +1,95 @@
+
+h1{
+    color:#414548;
+    font-family: calibri;
+    margin: 15px;
+    padding: 10px;
+    font-size: 40pt;
+}
+
+p{
+    font-family: calibri;
+    margin: 15px;
+    padding: 10px;
+    font-size: 18pt;
+}
+
+.logo{
+    height: 90px;
+    width: 300px;
+}
+img{
+    margin: 15px;
+    padding: 15px;
+    border: 5px;
+     
+}
+li{
+    font-family: calibri;
+    font-size: 18pt;
+}
+
+.fondo_rojo{
+    background-color: #414548;
+}
+
+.cajita{
+    width: 20%;
+}
+
+.letrablanca{
+    color: white;
+    margin: 15px;
+    padding: 15px;
+}
+
+h3{
+    font-family: calibri;
+}
+.calibri{
+    font-family: calibri;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img_nav{
+    width: 10%;
+    height: 20%;
+    border-radius: 100%;
+}
+
+.imagen_centrada{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+
+.valores{
+    display:flex;
+    justify-content: space-around;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #f7c0b2;
+}
+
+.productos{
+    width: 250px;
+    height: 200px;
+}
+
+.pro{
+    justify-content: flex-end;
+}
+
+.redes{
+    margin: 15px;
+    padding: 15px;
+    width: 20px;
+}
